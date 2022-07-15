@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ichsnn/kantin-kejujuran-client
+[submodule "server"]
+	path = server
+	url = https://github.com/ichsnn/kantin-kejujuran-server
